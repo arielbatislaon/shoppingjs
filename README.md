@@ -1,1 +1,1 @@
-"# shoppingjs- to run type \"node checkout.js\"" 
+"# shoppingjs- to run type \"npm start\" " 
